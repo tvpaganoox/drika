@@ -3,11 +3,12 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/TV_Aparecida_2015.png" group-title="Reliosos",Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="PREMIERE 1 HD¹" tvg-logo="https://images2.imgbox.com/7b/4e/iS9WtWx1_o.png" group-title="TV | ESPORTES ⚽",PREMIERE 1 HD¹
+#EXTINF:-1,Premiere Clubes SD
+http://138.122.93.82:8000/play/a06t/index.m3u8
+#EXTINF:-1,Premiere Clubes HD¹
 http://milka99.xyz:80/live/861776650760/374552685018/6763.ts
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 HD²" tvg-logo="https://images2.imgbox.com/7b/4e/iS9WtWx1_o.png" group-title="TV | ESPORTES ⚽",PREMIERE 1 HD²
+#EXTINF:-1,Premiere Clubes HD²
 http://milka99.xyz:80/live/861776650760/374552685018/53713.ts
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 SD¹" tvg-logo="https://images2.imgbox.com/7b/4e/iS9WtWx1_o.png" group-title="TV | ESPORTES ⚽",PREMIERE 1 SD¹
+#EXTINF:-1,Premiere Clubes HD 3
 http://milka99.xyz:80/live/861776650760/374552685018/40544.ts
 
