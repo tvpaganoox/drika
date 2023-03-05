@@ -5,10 +5,18 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
 #EXTINF:-1,Premiere Clubes SD
 http://138.122.93.82:8000/play/a06t/index.m3u8
+
 #EXTINF:-1,Premiere Clubes HD¹
 http://milka99.xyz:80/live/861776650760/374552685018/6763.ts
 #EXTINF:-1,Premiere Clubes HD²
 http://milka99.xyz:80/live/861776650760/374552685018/53713.ts
 #EXTINF:-1,Premiere Clubes HD 3
 http://milka99.xyz:80/live/861776650760/374552685018/40544.ts
+
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415710
+#EXTINF:-1PREMIERE CLUBES HD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415711
+#EXTINF:-1,PREMIERE CLUBES SD
+http://suatv.fun:80/canaisp2p/mudar@2021j45/415712
 
