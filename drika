@@ -1,272 +1,1011 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/TV_Aparecida_2015.png" group-title="Reliosos",Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="a.e.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/a.e.br.png",A&E
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/a.e.br.m3u8
-#EXTINF:-1 tvg-id="axn.br" tvg-name="axn.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/axn.br.png",AXN
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/axn.br.m3u8
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="band.news.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/band.news.br.png",Band News
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/band.news.br.m3u8
-#EXTINF:-1 tvg-id="band.br" tvg-name="band.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/band.br.png",Band São Paulo
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/band.br.m3u8
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="bandsports.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/bandsports.br.png",Band Sports
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/bandsports.br.m3u8
-#EXTINF:-1 tvg-id="big.brother.br" tvg-name="big.brother.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/big.brother.br.png",Big Brother Brazil (BBB)
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/big.brother.br.m3u8
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="boomerang.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/boomerang.br.png",Boomerang
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/boomerang.br.m3u8
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="cartoon.network.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/cartoon.network.br.png",Cartoon Network
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/cartoon.network.br.m3u8
-#EXTINF:-1 tvg-id="combate.br" tvg-name="combate.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/combate.br.png",Combate
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/combate.br.m3u8
-#EXTINF:-1 tvg-id="discovery.br" tvg-name="discovery.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/discovery.br.png",Discovery
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/discovery.br.m3u8
-#EXTINF:-1 tvg-id="discovery.civilization.br" tvg-name="discovery.civilization.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/discovery.civilization.br.png",Discovery Civilization BR
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/discovery.civilization.br.m3u8
-#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="discovery.kids.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/discovery.kids.br.png",Discovery Kids
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/discovery.kids.br.m3u8
-#EXTINF:-1 tvg-id="discovery.sciene.br" tvg-name="discovery.sciene.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/discovery.sciene.br.png",Discovery Science
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/discovery.sciene.br.m3u8
-#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="discovery.turbo.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/discovery.turbo.br.png",Discovery Turbo
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/discovery.turbo.br.m3u8
-#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="discovery.world.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/discovery.world.br.png",Discovery World
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/discovery.world.br.m3u8
-#EXTINF:-1 tvg-id="disney.br" tvg-name="disney.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/disney.br.png",Disney BR
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/disney.br.m3u8
-#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="disney.junior.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/disney.junior.br.png",Disney Junior
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/disney.junior.br.m3u8
-#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="disney.xd.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/disney.xd.br.png",Disney XD
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/disney.xd.br.m3u8
-#EXTINF:-1 tvg-id="ee.br" tvg-name="ee.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/ee.br.png",E!
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/ee.br.m3u8
-#EXTINF:-1 tvg-id="espn.br" tvg-name="espn.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/espn.br.png",ESPN
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/espn.br.m3u8
-#EXTINF:-1 tvg-id="espn.2.br" tvg-name="espn.2.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/espn.2.br.png",ESPN 2
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/espn.2.br.m3u8
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="espn.brasil.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/espn.brasil.br.png",ESPN Brazil
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/espn.brasil.br.m3u8
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="fishtv.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/fishtv.br.png",FishTV
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fishtv.br.m3u8
-#EXTINF:-1 tvg-id="food.network.br" tvg-name="food.network.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/food.network.br.png",Food Network
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/food.network.br.m3u8
-#EXTINF:-1 tvg-id="fox.br" tvg-name="fox.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/fox.br.png",FOX
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.br.m3u8
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="fox.life.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/fox.life.br.png",Fox Life
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.life.br.m3u8
-#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="fox.sports.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/fox.sports.br.png",FOX Sports
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.sports.br.m3u8
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="fox.sports.2.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/fox.sports.2.br.png",FOX Sports 2
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.sports.2.br.m3u8
-#EXTINF:-1 tvg-id="fx.br" tvg-name="fx.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/fx.br.png",FX
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fx.br.m3u8
-#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="globo.brasilia.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globo.brasilia.br.png",Globo Brasília
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.brasilia.br.m3u8
-#EXTINF:-1 tvg-id="globo.minas.br" tvg-name="globo.minas.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globo.minas.br.png",Globo Minas
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.minas.br.m3u8
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="globo.news.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globo.news.br.png",Globo News
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.news.br.m3u8
-#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="globo.nordeste.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globo.nordeste.br.png",Globo Nordeste
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.nordeste.br.m3u8
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="globo.rj.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globo.rj.br.png",Globo RJ
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.rj.br.m3u8
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="globo.sp.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globo.sp.br.png",Globo SP
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.sp.br.m3u8
-#EXTINF:-1 tvg-id="globosat.br" tvg-name="globosat.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/globosat.br.png",Globosat
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globosat.br.m3u8
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="gloob.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/gloob.br.png",Gloob
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/gloob.br.m3u8
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="gnt.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/gnt.br.png",GNT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/gnt.br.m3u8
-#EXTINF:-1 tvg-id="h2.br" tvg-name="h2.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/h2.br.png",H2
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/h2.br.m3u8
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="hbo.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/hbo.br.png",HBO
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/hbo.br.m3u8
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="hbo.2.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/hbo.2.br.png",HBO 2
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/hbo.2.br.m3u8
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="hbo.family.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/hbo.family.br.png",HBO Family
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/hbo.family.br.m3u8
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="hbo.plus.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/hbo.plus.br.png",HBO Plus
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/hbo.plus.br.m3u8
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="hbo.signature.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/hbo.signature.br.png",HBO Signature
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/hbo.signature.br.m3u8
-#EXTINF:-1 tvg-id="history.br" tvg-name="history.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/history.br.png",History
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/history.br.m3u8
-#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="investigacao.discovery.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/investigacao.discovery.br.png",Investigacao Discovery
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/investigacao.discovery.br.m3u8
-#EXTINF:-1 tvg-id="max.up.br" tvg-name="max.up.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/max.up.br.png",MAX UP
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/max.up.br.m3u8
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="megapix.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/megapix.br.png",Megapix
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/megapix.br.m3u8
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="multishow.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/multishow.br.png",Multishow
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/multishow.br.m3u8
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="national.geographic.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/national.geographic.br.png",National Geographic
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/national.geographic.br.m3u8
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="nick.jr.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/nick.jr.br.png",Nick Jr
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/nick.jr.br.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="nickelodeon.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/nickelodeon.br.png",Nickelodeon
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/nickelodeon.br.m3u8
-#EXTINF:-1 tvg-id="off.br" tvg-name="off.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/off.br.png",Off
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/off.br.m3u8
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="paramount.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/paramount.br.png",Paramount Channel
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/paramount.br.m3u8
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="premiere.2.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.2.br.png",Premiere 2
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.2.br.m3u8
-#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="premiere.3.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.3.br.png",Premiere 3
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.3.br.m3u8
-#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="premiere.4.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.4.br.png",Premiere 4
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.4.br.m3u8
-#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="premiere.5.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.5.br.png",Premiere 5
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.5.br.m3u8
-#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="premiere.6.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.6.br.png",Premiere 6
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.6.br.m3u8
-#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="premiere.7.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.7.br.png",Premiere 7
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.7.br.m3u8
-#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="premiere.8.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.8.br.png",Premiere 8
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.8.br.m3u8
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="premiere.clubes.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.clubes.br.png",Premiere Clubes
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.clubes.br.m3u8
-#EXTINF:-1 tvg-id="premiere.futebol.br" tvg-name="premiere.futebol.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/premiere.futebol.br.png",Premiere FC
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/premiere.futebol.br.m3u8
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="record.news.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/record.news.br.png",Record News
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/record.news.br.m3u8
-#EXTINF:-1 tvg-id="record.br" tvg-name="record.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/record.br.png",Record TV
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/record.br.m3u8
-#EXTINF:-1 tvg-id="recordtv.s.o.paulo.br" tvg-name="recordtv.s.o.paulo.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/recordtv.s.o.paulo.br.png",RecordTV Sao Paulo
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/recordtv.s.o.paulo.br.m3u8
-#EXTINF:-1 tvg-id="rede.tv.br" tvg-name="rede.tv.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/rede.tv.br.png",RedeTV!
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/rede.tv.br.m3u8
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="sbt.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/sbt.br.png",SBT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sbt.br.m3u8
-#EXTINF:-1 tvg-id="sony.br" tvg-name="sony.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/sony.br.png",Sony
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sony.br.m3u8
-#EXTINF:-1 tvg-id="space.br" tvg-name="space.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/space.br.png",Space
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/space.br.m3u8
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="sportv.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/sportv.br.png",SporTV
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sportv.br.m3u8
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="sportv2.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/sportv2.br.png",SporTV2
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sportv2.br.m3u8
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="sportv3.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/sportv3.br.png",SporTV3
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sportv3.br.m3u8
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="studio.universal.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/studio.universal.br.png",Studio Universal
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/studio.universal.br.m3u8
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="syfy.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/syfy.br.png",Syfy
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/syfy.br.m3u8
-#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="telecine.action.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/telecine.action.br.png",Telecine Action
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/telecine.action.br.m3u8
-#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="telecine.fun.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/telecine.fun.br.png",Telecine Fun
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/telecine.fun.br.m3u8
-#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="telecine.pipoca.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/telecine.pipoca.br.png",Telecine Pipoca
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/telecine.pipoca.br.m3u8
-#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="telecine.premium.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/telecine.premium.br.png",Telecine Premium
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/telecine.premium.br.m3u8
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="tlc.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/tlc.br.png",TLC
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tlc.br.m3u8
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="tnt.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/tnt.br.png",TNT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tnt.br.m3u8
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="tnt.series.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/tnt.series.br.png",TNT Series
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tnt.series.br.m3u8
-#EXTINF:-1 tvg-id="universal.br" tvg-name="universal.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/universal.br.png",Universal
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/universal.br.m3u8
-#EXTINF:-1 tvg-id="viva.br" tvg-name="viva.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/viva.br.png",Viva
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/viva.br.m3u8
-#EXTINF:-1 tvg-id="warner.channel.br" tvg-name="warner.channel.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/warner.channel.br.png",Warner Channel
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/warner.channel.br.m3u8
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="woohoo.br" tvg-type="live" group-title="Brazil" tvg-logo="https://media.tv4.live/woohoo.br.png",WooHoo
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/woohoo.br.m3u8
-#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24kitchen.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/24kitchen.pt.png",24 Kitchen
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/24kitchen.pt.m3u8
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="axn.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/axn.pt.png",AXN PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/axn.pt.m3u8
-#EXTINF:-1 tvg-id="benfica.pt" tvg-name="benfica.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/benfica.pt.png",Benfica TV PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/benfica.pt.m3u8
-#EXTINF:-1 tvg-id="bola.tv.pt" tvg-name="bola.tv.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/bola.tv.pt.png",Bola TV
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/bola.tv.pt.m3u8
-#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="canal.11.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/canal.11.pt.png",Canal 11
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/canal.11.pt.m3u8
-#EXTINF:-1 tvg-id="canal.hollywood.pt" tvg-name="canal.hollywood.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/canal.hollywood.pt.png",Canal Hollywood
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/canal.hollywood.pt.m3u8
-#EXTINF:-1 tvg-id="canal.panda.pt" tvg-name="canal.panda.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/canal.panda.pt.png",Canal Panda
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/canal.panda.pt.m3u8
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="cmtv.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/cmtv.pt.png",CMTV PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/cmtv.pt.m3u8
-#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="e.entertainment.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/e.entertainment.pt.png",E!
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/e.entertainment.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="eleven.sports.1.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/eleven.sports.1.pt.png",Eleven Sports 1 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/eleven.sports.1.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="eleven.sports.2.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/eleven.sports.2.pt.png",Eleven Sports 2 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/eleven.sports.2.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="eleven.sports.3.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/eleven.sports.3.pt.png",Eleven Sports 3 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/eleven.sports.3.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="eleven.sports.4.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/eleven.sports.4.pt.png",Eleven Sports 4 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/eleven.sports.4.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="eleven.sports.5.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/eleven.sports.5.pt.png",Eleven Sports 5 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/eleven.sports.5.pt.m3u8
-#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="eleven.sports.6.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/eleven.sports.6.pt.png",Eleven Sports 6 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/eleven.sports.6.pt.m3u8
-#EXTINF:-1 tvg-id="ficcao.pt" tvg-name="ficcao.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/ficcao.pt.png",Ficcao
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/ficcao.pt.m3u8
-#EXTINF:-1 tvg-id="fox.comedy.pt" tvg-name="fox.comedy.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/fox.comedy.pt.png",FOX Comedy
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.comedy.pt.m3u8
-#EXTINF:-1 tvg-id="fox.life.pt" tvg-name="fox.life.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/fox.life.pt.png",FOX Life PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.life.pt.m3u8
-#EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="fox.movies.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/fox.movies.pt.png",FOX Movies
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.movies.pt.m3u8
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="fox.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/fox.pt.png",FOX PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/fox.pt.m3u8
-#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="national.geographic.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/national.geographic.pt.png",National Geographic PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/national.geographic.pt.m3u8
-#EXTINF:-1 tvg-id="nick.jr.pt" tvg-name="nick.jr.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/nick.jr.pt.png",Nick JR
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/nick.jr.pt.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="nickelodeon.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/nickelodeon.pt.png",Nickelodeon
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/nickelodeon.pt.m3u8
-#EXTINF:-1 tvg-id="porto.canal.pt" tvg-name="porto.canal.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/porto.canal.pt.png",Porto Canal
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/porto.canal.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="rtp.1.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/rtp.1.pt.png",RTP 1 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/rtp.1.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="rtp.2.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/rtp.2.pt.png",RTP 2 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/rtp.2.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="rtp.3.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/rtp.3.pt.png",RTP 3 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/rtp.3.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="rtp.acores.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/rtp.acores.pt.png",RTP Acores
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/rtp.acores.pt.m3u8
-#EXTINF:-1 tvg-id="rtp.inter.pt" tvg-name="rtp.inter.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/rtp.inter.pt.png",RTP International
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/rtp.inter.pt.m3u8
-#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="sic.caras.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sic.caras.pt.png",SIC Caras
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sic.caras.pt.m3u8
-#EXTINF:-1 tvg-id="sic.k.pt" tvg-name="sic.k.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sic.k.pt.png",SIC K
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sic.k.pt.m3u8
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="sic.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sic.pt.png",SIC PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sic.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="sport.tv1.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sport.tv1.pt.png",Sport TV 1 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sport.tv1.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="sport.tv2.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sport.tv2.pt.png",Sport TV 2 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sport.tv2.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="sport.tv3.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sport.tv3.pt.png",Sport TV 3 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sport.tv3.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="sport.tv4.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sport.tv4.pt.png",Sport TV 4 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sport.tv4.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="sport.tv5.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sport.tv5.pt.png",Sport TV 5 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sport.tv5.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv6.pt" tvg-name="sport.tv6.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sport.tv6.pt.png",Sport TV 6
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sport.tv6.pt.m3u8
-#EXTINF:-1 tvg-id="sport.tv.pt" tvg-name="sport.tv.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/sport.tv.pt.png",Sport TV Plus PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sport.tv.pt.m3u8
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="syfy.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/syfy.pt.png",SYFY
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/syfy.pt.m3u8
-#EXTINF:-1 tvg-id="tlc.pt" tvg-name="tlc.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/tlc.pt.png",TLC
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tlc.pt.m3u8
-#EXTINF:-1 tvg-id="tvcine.1.pt" tvg-name="tvcine.1.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/tvcine.1.pt.png",TVCine 1 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tvcine.1.pt.m3u8
-#EXTINF:-1 tvg-id="tvcine.2.pt" tvg-name="tvcine.2.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/tvcine.2.pt.png",TVCine 2 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tvcine.2.pt.m3u8
-#EXTINF:-1 tvg-id="tvi.24.pt" tvg-name="tvi.24.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/tvi.24.pt.png",TVI 24 PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tvi.24.pt.m3u8
-#EXTINF:-1 tvg-id="tvi.int.pt" tvg-name="tvi.int.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/tvi.int.pt.png",Tvi Internacional
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tvi.int.pt.m3u8
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="tvi.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/tvi.pt.png",TVI PT
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tvi.pt.m3u8
-#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="tvi.reality.pt" tvg-type="live" group-title="Portuguese" tvg-logo="https://media.tv4.live/tvi.reality.pt.png",TVI Reality
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/tvi.reality.pt.m3u8
+#EXTINF:-1,TV Aparecida
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36060
+#EXTINF:-1,TV APARECIDA LIVRE
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31579
+#EXTINF:-1,Warner Channel HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16765
+#EXTINF:-1,A&E HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16691
+#EXTINF:-1,AMC HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16692
+#EXTINF:-1,ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16693
+#EXTINF:-1,Arte 1 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16694
+#EXTINF:-1,AXN HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16695
+#EXTINF:-1,Band News HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16696
+#EXTINF:-1,Band SP HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16697
+#EXTINF:-1,Band Sports HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16698
+#EXTINF:-1,Boomerang HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16699
+#EXTINF:-1,Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16700
+#EXTINF:-1,Cartoon Network HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16701
+#EXTINF:-1,CINEMAX HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16702
+#EXTINF:-1,Combate HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16703
+#EXTINF:-1,COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16704
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16705
+#EXTINF:-1,Discovery H&H HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16706
+#EXTINF:-1,Discovery Kids HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16707
+#EXTINF:-1,Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16708
+#EXTINF:-1,Discovery TLC HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16710
+#EXTINF:-1,Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16711
+#EXTINF:-1,Discovery World HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16712
+#EXTINF:-1,Disney Channel HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16713
+#EXTINF:-1,ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16716
+#EXTINF:-1,ESPN HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16718
+#EXTINF:-1,STAR CHANNEL HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16720
+#EXTINF:-1,Fox Sports 2 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16724
+#EXTINF:-1,ESPN 3
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16725
+#EXTINF:-1,FX HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16726
+#EXTINF:-1,Globo News HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16727
+#EXTINF:-1,Globo Nordeste HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16728
+#EXTINF:-1,Globo RJ HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16729
+#EXTINF:-1,Globo SP HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16730
+#EXTINF:-1,Globo TV Bahia HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16731
+#EXTINF:-1,Gloob HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16732
+#EXTINF:-1,H2 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16733
+#EXTINF:-1,HGTV HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16734
+#EXTINF:-1,History Channel HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16735
+#EXTINF:-1,ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16736
+#EXTINF:-1,Modo Viagem HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16737
+#EXTINF:-1,MTV HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16738
+#EXTINF:-1,MTV Live HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16739
+#EXTINF:-1,Multishow HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16740
+#EXTINF:-1,National Geographic HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16743
+#EXTINF:-1,Nick Jr HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16744
+#EXTINF:-1,Nickelodeon HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16745
+#EXTINF:-1,Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16746
+#EXTINF:-1,Record News HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16747
+#EXTINF:-1,RECORDTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16748
+#EXTINF:-1,SBT SP HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16749
+#EXTINF:-1,Space HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16750
+#EXTINF:-1,SporTV 2 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16751
+#EXTINF:-1,SporTV 3 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16752
+#EXTINF:-1,SporTV 1 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16753
+#EXTINF:-1,Studio Universal HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16754
+#EXTINF:-1,SyFy HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16755
+#EXTINF:-1,Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16756
+#EXTINF:-1,Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16757
+#EXTINF:-1,Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16758
+#EXTINF:-1,Telecine Touch HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16759
+#EXTINF:-1,TNT HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16760
+#EXTINF:-1,TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
+#EXTINF:-1,Tooncast HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16762
+#EXTINF:-1,Universal Channel HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16763
+#EXTINF:-1,Viva HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16764
+#EXTINF:-1,ANIMAL PLANET 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31029
+#EXTINF:-1,BAND 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31030
+#EXTINF:-1,CARTOON NETWORK 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31031
+#EXTINF:-1,COMBATE 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31032
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31033
+#EXTINF:-1,ESPN 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31034
+#EXTINF:-1,FOX SPORTS 2 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31035
+#EXTINF:-1,GAZETA 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31037
+#EXTINF:-1,Globo Santos FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31038
+#EXTINF:-1,MULTISHOW 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31041
+#EXTINF:-1,PREMIERE 1 CLUBES
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31042
+#EXTINF:-1,RECORDTV 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31043
+#EXTINF:-1,REDE TV 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31044
+#EXTINF:-1,SBT 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31045
+#EXTINF:-1,SPACE 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31046
+#EXTINF:-1,SPORTV 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31047
+#EXTINF:-1,STAR CHANNEL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31048
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31049
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31050
+#EXTINF:-1,TNT 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31051
+#EXTINF:-1,Band Santos HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31053
+#EXTINF:-1,BAND CAMPINAS ¹
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31059
+#EXTINF:-1,BAND FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31060
+#EXTINF:-1,BAND PA (RBATV)
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31062
+#EXTINF:-1,CANAL BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31063
+#EXTINF:-1,CANAL DO BOI
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31064
+#EXTINF:-1,GAZETA ¹ SP
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31069
+#EXTINF:-1,REDE TV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31071
+#EXTINF:-1,REDE TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31072
+#EXTINF:-1,SBT
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31075
+#EXTINF:-1,SBT FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31076
+#EXTINF:-1,SBT TV SERRA DOURADA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31080
+#EXTINF:-1,TV ARATU HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31082
+#EXTINF:-1,TV CULTURA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31083
+#EXTINF:-1,TV CULTURA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31084
+#EXTINF:-1,TV DIARIO FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31085
+#EXTINF:-1,TV GAZETA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31087
+#EXTINF:-1,GLOBO TV GAZETA NORTE MINEIRA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31088
+#EXTINF:-1,ANIMAL PLANET FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31104
+#EXTINF:-1,ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31105
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31106
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31107
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31108
+#EXTINF:-1,DISCOVERY ID FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31109
+#EXTINF:-1,DISCOVERY ID HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31110
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31111
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31112
+#EXTINF:-1,DISCOVERY THEATHER FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31113
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31114
+#EXTINF:-1,DISCOVERY TURBO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31115
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31116
+#EXTINF:-1,DISCOVERY WORLD HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31117
+#EXTINF:-1,H2 FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31118
+#EXTINF:-1,H2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31119
+#EXTINF:-1,HGTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31121
+#EXTINF:-1,HISTORY FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31122
+#EXTINF:-1,HISTORY HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31123
+#EXTINF:-1,NATGEO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31124
+#EXTINF:-1,NATGEO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31125
+#EXTINF:-1,NATGEO WILD FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31126
+#EXTINF:-1,TLC FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31129
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31130
+#EXTINF:-1,BAND SPORTS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31133
+#EXTINF:-1,BAND SPORTS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31134
+#EXTINF:-1,BAND SPORTS HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31135
+#EXTINF:-1,COMBATE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31136
+#EXTINF:-1,COMBATE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31137
+#EXTINF:-1,COMBATE HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31138
+#EXTINF:-1,ESPN 2 FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31139
+#EXTINF:-1,ESPN 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31140
+#EXTINF:-1,ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31141
+#EXTINF:-1,ESPN 3
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31142
+#EXTINF:-1,ESPN EXTRA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31145
+#EXTINF:-1,ESPN EXTRA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31146
+#EXTINF:-1,ESPN EXTRA HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31147
+#EXTINF:-1,ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31148
+#EXTINF:-1,ESPN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31149
+#EXTINF:-1,ESPN HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31150
+#EXTINF:-1,FISH TV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31151
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31153
+#EXTINF:-1,FOX SPORTS 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31154
+#EXTINF:-1,FOX SPORTS 1 FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31155
+#EXTINF:-1,OFF HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31160
+#EXTINF:-1,SPORTV 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31163
+#EXTINF:-1,SPORTV 3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31166
+#EXTINF:-1,SPORTV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31168
+#EXTINF:-1,SPORTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31169
+#EXTINF:-1,SPORTV HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31170
+#EXTINF:-1,WOOHOO FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31171
+#EXTINF:-1,WOOHOO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31172
+#EXTINF:-1,CONMEBOL 4
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31191
+#EXTINF:-1,TNT SPORTS 2
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31223
+#EXTINF:-1,TNT SPORTS 5 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31230
+#EXTINF:-1,ELEVEN SPORTS 1
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31243
+#EXTINF:-1,ELEVEN SPORTS 3
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31245
+#EXTINF:-1,SPORT TV 2
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31253
+#EXTINF:-1,A&E FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31268
+#EXTINF:-1,AMC HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31269
+#EXTINF:-1,AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
+#EXTINF:-1,CANAL SONY HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31273
+#EXTINF:-1,CINEMAX FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31274
+#EXTINF:-1,CINEMAX HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31275
+#EXTINF:-1,FX FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31276
+#EXTINF:-1,FX HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31277
+#EXTINF:-1,MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31278
+#EXTINF:-1,MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31279
+#EXTINF:-1,PARAMOUNT CHANNEL H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31280
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31281
+#EXTINF:-1,SPACE H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31282
+#EXTINF:-1,SPACE HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31284
+#EXTINF:-1,STAR CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31285
+#EXTINF:-1,STAR CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31286
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31291
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31292
+#EXTINF:-1,SYFY FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31293
+#EXTINF:-1,SYFY HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31294
+#EXTINF:-1,TBS FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31295
+#EXTINF:-1,TBS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31296
+#EXTINF:-1,TCM HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31298
+#EXTINF:-1,TNT FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31299
+#EXTINF:-1,TNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31300
+#EXTINF:-1,TNT SERIES FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31301
+#EXTINF:-1,UNIVERSAL TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31304
+#EXTINF:-1,WARNER CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31305
+#EXTINF:-1,CINEMA 7
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31322
+#EXTINF:-1,CINEMA 8
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31324
+#EXTINF:-1,HBO 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31460
+#EXTINF:-1,HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31462
+#EXTINF:-1,HBO FAMILY HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31463
+#EXTINF:-1,HBO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31464
+#EXTINF:-1,HBO 1 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31465
+#EXTINF:-1,HBO MUNDI FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31466
+#EXTINF:-1,HBO MUNDI HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31467
+#EXTINF:-1,HBO PLUS FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31468
+#EXTINF:-1,HBO POP H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31469
+#EXTINF:-1,HBO POP HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31471
+#EXTINF:-1,HBO SIGNATURE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31473
+#EXTINF:-1,HBO XTREME FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31475
+#EXTINF:-1,CARTOON NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31479
+#EXTINF:-1,CARTOON NETWORK HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31480
+#EXTINF:-1,DISCOVERY KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31481
+#EXTINF:-1,DISCOVERY KIDS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31482
+#EXTINF:-1,DISNEY CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31483
+#EXTINF:-1,DISNEY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31484
+#EXTINF:-1,NATGEO KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31495
+#EXTINF:-1,BAND NEWS FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31506
+#EXTINF:-1,CNN BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31508
+#EXTINF:-1,CNN BRASIL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31509
+#EXTINF:-1,CNN INTERNACIONAL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31511
+#EXTINF:-1,GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31519
+#EXTINF:-1,NHK JAPÃO  HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31520
+#EXTINF:-1,RECORD NEWS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31523
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31525
+#EXTINF:-1,PREMIERE CLUBES HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31526
+#EXTINF:-1,PREMIERE CLUBES HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31527
+#EXTINF:-1,PREMIERE 2 FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31528
+#EXTINF:-1,PREMIERE 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31529
+#EXTINF:-1,PREMIERE 2 UHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31531
+#EXTINF:-1,PREMIERE 3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31533
+#EXTINF:-1,PREMIERE 3 UHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31535
+#EXTINF:-1,PREMIERE 4 FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31536
+#EXTINF:-1,PREMIERE 4 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31537
+#EXTINF:-1,PREMIERE 5 FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31539
+#EXTINF:-1,PREMIERE 5 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31540
+#EXTINF:-1,PREMIERE 6 FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31542
+#EXTINF:-1,PREMIERE 6 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31543
+#EXTINF:-1,PREMIERE 7 FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31544
+#EXTINF:-1,PREMIERE 7 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31545
+#EXTINF:-1,BR: RECORD CAMPINAS HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31553
+#EXTINF:-1,BR: RECORD RJ HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31555
+#EXTINF:-1,BR: RECORD SP HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31556
+#EXTINF:-1,RECORDTV SANTOS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31557
+#EXTINF:-1,RECORD BAHIA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31558
+#EXTINF:-1,RECORD SANTOS FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31560
+#EXTINF:-1,RECORD FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31562
+#EXTINF:-1,RECORD GOIAS
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31563
+#EXTINF:-1,RECORD MINAS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31565
+#EXTINF:-1,RECORD RJ HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31566
+#EXTINF:-1,RECORD RS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31567
+#EXTINF:-1,RECORD SP HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31568
+#EXTINF:-1,RECORD¹
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31569
+#EXTINF:-1,NOVO TEMPO
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31573
+#EXTINF:-1,REDE VIDA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31577
+#EXTINF:-1,TELECINE ACTION FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31582
+#EXTINF:-1,TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31583
+#EXTINF:-1,TELECINE CULT FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31584
+#EXTINF:-1,TELECINE CULT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31585
+#EXTINF:-1,TELECINE FUN FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31587
+#EXTINF:-1,TELECINE FUN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31588
+#EXTINF:-1,TELECINE PIPOCA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31589
+#EXTINF:-1,TELECINE PIPOCA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31590
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31591
+#EXTINF:-1,TELECINE PREMIUM HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31592
+#EXTINF:-1,TELECINE TOUCH FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31593
+#EXTINF:-1,TELECINE TOUCH HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31594
+#EXTINF:-1,Arte 1 FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31595
+#EXTINF:-1,BIS FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31596
+#EXTINF:-1,BIS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31597
+#EXTINF:-1,CHEF TV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31598
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31599
+#EXTINF:-1,COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31600
+#EXTINF:-1,CURTA! FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31601
+#EXTINF:-1,CURTA! HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31602
+#EXTINF:-1,E! FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31604
+#EXTINF:-1,E! HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31605
+#EXTINF:-1,FOOD NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31606
+#EXTINF:-1,GNT FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31608
+#EXTINF:-1,GNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31609
+#EXTINF:-1,LIFETIME FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31611
+#EXTINF:-1,LIFETIME HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31612
+#EXTINF:-1,MAIS GLOBOSAT
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31613
+#EXTINF:-1,MTV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31615
+#EXTINF:-1,MTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31616
+#EXTINF:-1,MULTISHOW FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31617
+#EXTINF:-1,MULTSHOW HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31618
+#EXTINF:-1,MUSIC BOX BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31619
+#EXTINF:-1,PRIME BOX BRASIL FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31621
+#EXTINF:-1,SHOPTIME HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31622
+#EXTINF:-1,STAR LIFE FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31623
+#EXTINF:-1,TRUTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31627
+#EXTINF:-1,VH1 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31628
+#EXTINF:-1,VH1 MEGA HITS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31629
+#EXTINF:-1,VIVA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31630
+#EXTINF:-1,VIVA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31631
+#EXTINF:-1,A PEQUENA SEREIA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31638
+#EXTINF:-1,A PEQUENA SEREIA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31639
+#EXTINF:-1,CHAVES
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31676
+#EXTINF:-1,CARTOON GOSPEL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31713
+#EXTINF:-1,GLOBO NEWS SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32153
+#EXTINF:-1,GLOBO NEWS
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32334
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32155
+#EXTINF:-1,GLOBO² ANHANGUERA GOIANIA SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32158
+#EXTINF:-1,GLOBO² EPTV CAMPINAS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32161
+#EXTINF:-1,GLOBO² MINAS SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32164
+#EXTINF:-1,GLOBO² NORDESTE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32165
+#EXTINF:-1,GLOBO² NSC FLORIANOPOLIS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32167
+#EXTINF:-1,GLOBO² RBS PORTO ALEGRE SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32168
+#EXTINF:-1,GLOBO² RIBEIRÃO PRETO SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32169
+#EXTINF:-1,GLOBO² RJ HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32170
+#EXTINF:-1,RPC Curitiba HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32172
+#EXTINF:-1,GLOBO² SP HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32174
+#EXTINF:-1,GLOBO SP SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32175
+#EXTINF:-1,GLOBO² TV BAHIA SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32176
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32178
+#EXTINF:-1,GLOBO² TV TEM BAURU SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32179
+#EXTINF:-1,GLOBO² TV Tem Rio Preto SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32180
+#EXTINF:-1,GLOBO² TV TEM SOROCABA SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32181
+#EXTINF:-1,GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32182
+#EXTINF:-1,GLOBO² TV VERDES MARES FORTALEZA SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32183
+#EXTINF:-1,GLOBO³  NSC JOINVILLE  HDD SC
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32184
+#EXTINF:-1,GLOBO³ BRASILIA H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32191
+#EXTINF:-1,GLOBO³ CHAPECO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32194
+#EXTINF:-1,GLOBO³ CURITIBA FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32198
+#EXTINF:-1,GLOBO³ EPTV CAMPINAS FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32203
+#EXTINF:-1,GLOBO³ EPTV RIBEIRAO PRETO SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32206
+#EXTINF:-1,GLOBO³ FLORIANOPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32208
+#EXTINF:-1,GLOBO³ FOZ DO IGUAÇU FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32215
+#EXTINF:-1,GLOBO³ FULLHD SP H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32216
+#EXTINF:-1,GLOBO³ GAZETA SUL ALEGRE ES FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32217
+#EXTINF:-1,GLOBO³ GAZETA VITORIA SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32220
+#EXTINF:-1,GLOBO³ GOIANIA FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32221
+#EXTINF:-1,GLOBO³ GOIANIA SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32223
+#EXTINF:-1,GLOBO³ INTER TV  CABUGI FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32226
+#EXTINF:-1,GLOBO³ INTER TV ALTO LITORAL FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32227
+#EXTINF:-1,GLOBO³ INTER TV CABUGI SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32230
+#EXTINF:-1,GLOBO³ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32241
+#EXTINF:-1,GLOBO³ NSC CHAPECO FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32243
+#EXTINF:-1,GLOBO³ NSC JOINVILLE  FULLHD SC
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32244
+#EXTINF:-1,GLOBO³ PORTO ALEGRE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32247
+#EXTINF:-1,GLOBO SAO PAULO H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32251
+#EXTINF:-1,GLOBO³ RPC MARINGA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32265
+#EXTINF:-1,GLOBO RPC CURITIBA H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32266
+#EXTINF:-1,GLOBO BELO HORIZONTE H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32267
+#EXTINF:-1,GLOBO SP FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32276
+#EXTINF:-1,GLOBO³ TV ASA BRANCA FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32279
+#EXTINF:-1,GLOBO³ TV CABO BRANCO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32281
+#EXTINF:-1,GLOBO³ TV CENTRO AMERICA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32284
+#EXTINF:-1,GLOBO³ TV CLUBE PI HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32286
+#EXTINF:-1,GLOBO TV GAZETA SUL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32291
+#EXTINF:-1,GLOBO TV CABUGI HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32297
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32298
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32300
+#EXTINF:-1,GLOBO³ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32301
+#EXTINF:-1,GLOBO RBS Porto Alegre HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32304
+#EXTINF:-1,GLOBO TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32309
+#EXTINF:-1,GLOBO¹ INTER TV ALTO LITORAL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32325
+#EXTINF:-1,GLOBO TV CABUGI HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32326
+#EXTINF:-1,GLOBO¹ INTER TV DOS VALES FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32327
+#EXTINF:-1,GLOBO¹ MINAS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32330
+#EXTINF:-1,GLOBO¹ MINAS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32331
+#EXTINF:-1,GLOBO¹ NACIONAL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32333
+#EXTINF:-1,GLOBO¹ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32335
+#EXTINF:-1,GLOBO¹ NSC FLORIANÓPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32339
+#EXTINF:-1,GLOBO¹ NSC TV BLUMENAU FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32340
+#EXTINF:-1,GLOBO NSC Blumenau HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32341
+#EXTINF:-1,GLOBO¹ RBS TV POA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32344
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32345
+#EXTINF:-1,GLOBO¹ REDE AMAZONICA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32347
+#EXTINF:-1,GLOBO¹ RJ FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32348
+#EXTINF:-1,GLOBO¹ RPC CURITIBA FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32351
+#EXTINF:-1,GLOBO¹ RPC MARINGÁ FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32353
+#EXTINF:-1,GLOBO¹ RPC  FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32354
+#EXTINF:-1,GLOBO¹ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32356
+#EXTINF:-1,GLOBO¹ RPC TV CURITIBA SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32357
+#EXTINF:-1,GLOBO¹ SP FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32358
+#EXTINF:-1,GLOBO SP HD¹
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32360
+#EXTINF:-1,GLOBO¹ TV ANHANGUERA FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32362
+#EXTINF:-1,GLOBO¹ TV BAHIA FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32367
+#EXTINF:-1,GLOBO¹ TV BRASILIA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32370
+#EXTINF:-1,GLOBO¹ TV CABO BRANCO FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32371
+#EXTINF:-1,GLOBO¹ TV CLUBE TERESINA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32373
+#EXTINF:-1,GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32376
+#EXTINF:-1,GLOBO¹ TV MIRANTE FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32380
+#EXTINF:-1,GLOBO¹ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32387
+#EXTINF:-1,GLOBO¹ TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32391
+#EXTINF:-1,GLOBO¹ TV VERDES MARES FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32393
+#EXTINF:-1,ELEVEN SPORTS 05 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32860
+#EXTINF:-1,ELEVEN SPORTS 06 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32861
+#EXTINF:-1,ELEVEN SPORTS 08 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32863
+#EXTINF:-1,ELEVEN SPORTS 09 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/32864
+#EXTINF:-1,TELECINE ACTION HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33730
+#EXTINF:-1,AMC HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33731
+#EXTINF:-1,FUTURA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33733
+#EXTINF:-1,FUTURA FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33734
+#EXTINF:-1,GLOBO TV VERDES MARES HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33736
+#EXTINF:-1,Globo TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33737
+#EXTINF:-1,MUSIC BOX BRASIL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33738
+#EXTINF:-1,GLOOBINHO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33739
+#EXTINF:-1,GLOOBINHO H265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33741
+#EXTINF:-1,PAI ETERNO FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33743
+#EXTINF:-1,Cine Sky 01 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35472
+#EXTINF:-1,Cine Sky 02 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35473
+#EXTINF:-1,Cine Sky 03 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35474
+#EXTINF:-1,Cine Sky 04 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35475
+#EXTINF:-1,Cine Sky 05 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35476
+#EXTINF:-1,Cine Sky 09 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35480
+#EXTINF:-1,Gloobinho HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35962
+#EXTINF:-1,FOX Sports HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35963
+#EXTINF:-1,FOX Sports 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35964
+#EXTINF:-1,Band Sports HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35965
+#EXTINF:-1,Cultura HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35967
+#EXTINF:-1,E! HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35969
+#EXTINF:-1,SporTV3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35973
+#EXTINF:-1,Viva HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35974
+#EXTINF:-1,Canal Brasil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35975
+#EXTINF:-1,Combate HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35976
+#EXTINF:-1,Premiere Clubes HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35978
+#EXTINF:-1,Premiere 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35979
+#EXTINF:-1,HBO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35980
+#EXTINF:-1,HBO2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35981
+#EXTINF:-1,HBO Signature HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35985
+#EXTINF:-1,Rede Vida HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35987
+#EXTINF:-1,Premiere 6 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35988
+#EXTINF:-1,Premiere 7 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35989
+#EXTINF:-1,RedeTV! HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35992
+#EXTINF:-1,Telecine Premium HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35995
+#EXTINF:-1,Telecine Touch HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35996
+#EXTINF:-1,Telecine Pipoca HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35997
+#EXTINF:-1,ESPN Brasil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36002
+#EXTINF:-1,ESPN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36003
+#EXTINF:-1,TNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36004
+#EXTINF:-1,TV Brasil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36006
+#EXTINF:-1,Telecine Action HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36008
+#EXTINF:-1,Telecine Fun HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36011
+#EXTINF:-1,Telecine Cult HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36012
+#EXTINF:-1,Sabor & Arte HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36015
+#EXTINF:-1,Animal Planet HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36016
+#EXTINF:-1,Nickelodeon HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36017
+#EXTINF:-1,Nick Jr. HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36018
+#EXTINF:-1,France 24 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36021
+#EXTINF:-1,Playboy TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36022
+#EXTINF:-1,CONMEBOL TV 1
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36023
+#EXTINF:-1,SporTV2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36024
+#EXTINF:-1,SporTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36025
+#EXTINF:-1,Premiere 3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36026
+#EXTINF:-1,GNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36027
+#EXTINF:-1,Multishow HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36028
+#EXTINF:-1,Premiere 4 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36029
+#EXTINF:-1,Fashion TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36030
+#EXTINF:-1,Travel Box Brazil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36031
+#EXTINF:-1,History 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36032
+#EXTINF:-1,MTV LIVE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36033
+#EXTINF:-1,A&E HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36034
+#EXTINF:-1,TV Novo Tempo HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36035
+#EXTINF:-1,CONMEBOL TV 2
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36036
+#EXTINF:-1,CONMEBOL TV 3
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36037
+#EXTINF:-1,History HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36038
+#EXTINF:-1,Warner Channel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36039
+#EXTINF:-1,Canal Sony HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36040
+#EXTINF:-1,AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36041
+#EXTINF:-1,TLC HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36042
+#EXTINF:-1,Curta! HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36043
+#EXTINF:-1,DOG TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36044
+#EXTINF:-1,Discovery Channel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36045
+#EXTINF:-1,Discovery Kids HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36046
+#EXTINF:-1,Boomerang HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36047
+#EXTINF:-1,Music Box Brazil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36049
+#EXTINF:-1,Prime Box Brazil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36050
+#EXTINF:-1,Canal do Boi HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36051
+#EXTINF:-1,ESPN Extra HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36052
+#EXTINF:-1,Discovery Theater HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36053
+#EXTINF:-1,Discovery World HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36054
+#EXTINF:-1,Cartoon Network HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36055
+#EXTINF:-1,TBS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36056
+#EXTINF:-1,ID HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36057
+#EXTINF:-1,TNT Séries HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36058
+#EXTINF:-1,Space HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36059
+#EXTINF:-1,Futura HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36061
+#EXTINF:-1,HGTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36062
+#EXTINF:-1,Woohoo HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36063
+#EXTINF:-1,Band News HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36064
+#EXTINF:-1,Discovery Science HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36065
+#EXTINF:-1,Zoomoo HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36066
+#EXTINF:-1,Eurochannel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
+#EXTINF:-1,Film&Arts HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36068
+#EXTINF:-1,CONMEBOL TV 4
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36069
+#EXTINF:-1,Globo HD RJ
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36070
+#EXTINF:-1,Globo HD SP
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36071
+#EXTINF:-1,TV Verdes Mares HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36072
+#EXTINF:-1,TV Bahia HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36073
+#EXTINF:-1,Globo HD Minas
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36074
+#EXTINF:-1,Globo Nordeste HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36075
+#EXTINF:-1,TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36076
+#EXTINF:-1,RBS TV HD Porto Alegre
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36077
+#EXTINF:-1,TV Tem HD Bauru
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36079
+#EXTINF:-1,EPTV HD Campinas
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36080
+#EXTINF:-1,Globo Brasília HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36081
+#EXTINF:-1,Rede TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36082
+#EXTINF:-1,Paramount Network HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36083
+#EXTINF:-1,Combate HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36084
+#EXTINF:-1,RPC TV Curitiba HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36086
+#EXTINF:-1,TV Rá Tim Bum HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36087
+#EXTINF:-1,STAR CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36088
+#EXTINF:-1,RECORDTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36089
+#EXTINF:-1,STAR + HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36090
+#EXTINF:-1,MTV 00's HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36091
+#EXTINF:-1,JP News UHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36611
+#EXTINF:-1,Love nature 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36612
