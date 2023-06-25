@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,TV APARECIDA HD
-http://200.4.96.47:8000/play/a029/index.m3u8
+https://ythls.onrender.com/channel/UCfYrK5JU5EznsnK3wQE7iIg.m3u8
 #EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E" tvg-logo="https://icons.tvlan.io/icones/ae.png" group-title="Canais | Filmes e Séries",A&E
 http://gmsolucoes.tvpn.eu:80/gmsolucoes/gm121109/128
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://icons.tvlan.io/icones/amc.png" group-title="Canais | Filmes e Séries",AMC
